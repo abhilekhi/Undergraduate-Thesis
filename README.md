@@ -1,6 +1,4 @@
-### Undergraduate-Thesis
-
-# Predicting Battery Degredation Using Machine Learning 			
+# Undergraduate Thesis - Predicting Battery Degredation Using Machine Learning 			
 
 •	Developed a machine learning algorithm capable of accurately predicting capacity loss of lithium-ion batteries using Python and MATLAB
 
